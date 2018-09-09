@@ -1,0 +1,54 @@
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 100%;
+  background-image: url("../images/connectwork.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 65%;
+  margin: 0 auto;
+}
+
+hr {
+  margin: .4rem auto;
+}
+
+h2 {
+  font-size: 1rem;
+  color: white;
+}
+
+p {
+  font-size: .5rem;
+  color: white;  
+  margin: .25em;
+}
+
+.comp-number {
+  color: white;
+  font-size: .8rem;
+  margin: .4rem auto;
+}
+
+.win-loss  {
+  margin: .4rem auto;
+}
+
+.loss {
+  color: red;
+}
+
+.gem {
+  width: 2rem;
+  height: 2rem;
+  margin: 0 .1rem;
+}
+
+.score {
+  font-size: .8rem;
+  color: gold;
+}
+
+.score-value {
+  font-size: .8rem;
+  color: gold;
+}
