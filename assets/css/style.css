@@ -13,24 +13,24 @@ hr {
 }
 
 h2 {
-  font-size: 1rem;
+  font-size: 2rem;
   color: white;
 }
 
 p {
-  font-size: .5rem;
+  font-size: 1rem;
   color: white;  
-  margin: .25em;
+  margin: .50em;
 }
 
 .comp-number {
   color: white;
-  font-size: .8rem;
-  margin: .4rem auto;
+  font-size: 1.6rem;
+  margin: .8rem auto;
 }
 
 .win-loss  {
-  margin: .4rem auto;
+  margin: .8rem auto;
 }
 
 .loss {
@@ -38,17 +38,17 @@ p {
 }
 
 .gem {
-  width: 2rem;
-  height: 2rem;
-  margin: 0 .1rem;
+  width: 4rem;
+  height: 4rem;
+  margin: 0 .2rem;
 }
 
 .score {
-  font-size: .8rem;
+  font-size: 1.6rem;
   color: gold;
 }
 
 .score-value {
-  font-size: .8rem;
+  font-size: 1.6rem;
   color: gold;
 }
